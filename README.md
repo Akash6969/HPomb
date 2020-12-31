@@ -59,7 +59,7 @@ To use the HBomb type the following commands in Linux terminal:
 + git clone https://github.com/secanonm/HPomb.git
 - cd HPomb
 + chmod +x hpomb.py
-- python3 hpbomb.py
+- python3 hpomb.py
 ```
 
 ### > For macOS:
